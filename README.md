@@ -21,4 +21,4 @@ We are given two datasets:
   - user_id
 
 ## Result
-![AUC ROC score](AUC_ROC.)
+![AUC ROC score](AUC_ROC.jpg)
